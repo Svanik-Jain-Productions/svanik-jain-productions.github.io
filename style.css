@@ -1,3 +1,7 @@
 body {
-  background : navy;
+    background : white;
+  }
+#Main{
+    background: navy;
+    display: flex;
 }
